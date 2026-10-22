@@ -213,7 +213,7 @@ Untuk jalur integrasi Ollama, kamu juga dapat mencoba:
 
 bash
 ```
-ollama launch hermes
+ollama launch hermes --model qwen2.5-coder:3b
 ```
 
 Jika versi Ollama kamu tidak menyediakan perintah tersebut, gunakan wizard Hermes secara langsung.
