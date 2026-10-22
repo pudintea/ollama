@@ -38,6 +38,11 @@ df -h /
 
 Pastikan ruang disk cukup untuk model dan cache. Jangan lanjut mengaktifkan agent otomatis sebelum memastikan server memiliki ruang RAM yang memadai.
 
+zstd
+```
+sudo apt-get install zstd
+```
+
 ### 2.2 Instal dan aktifkan Ollama
 
 bash
